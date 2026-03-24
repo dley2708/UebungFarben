@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="UebungFarben.Core/UebungFarben.Core.csproj" />
+  <Project Path="UebungFarben.Gui/UebungFarben.Gui.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
