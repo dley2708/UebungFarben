@@ -20,7 +20,7 @@ public partial class MainViewModel : ObservableObject
     private string _farbe = "";
 
     [RelayCommand]
-    private void CLick()
+    private void Click()
     {
         this.Farbe = this._theme.Farbe;
     }
